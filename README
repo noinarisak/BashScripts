@@ -2,6 +2,9 @@
 #Date: 2011.02.24
 #Comments:
 Collection of bash scripts.
+--
 #Change Log: 2011.02.24
 Initial create of these README file.
-
+--
+#Change Log: 2011.04.03
+Add .gitignore, template.bash_alias and bash_profile.

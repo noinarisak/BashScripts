@@ -31,9 +31,16 @@ alias l='ls -CF'                              #
 alias lla='ls -la'							  # long list all
 
 # Some Git shortcuts.
+alias gb='git branch'
+alias gba='git branch -a'
+alias gc='git commit -v'
+#alias gd='git diff | mate' 					# base on the platform.
+alias gl='git pull'
+alias gp='git push'
+alias gst='git status'
 
-# Some Cgywin shortcuts.
-alias cd2app='cd /cygdrive/c/_App'
-alias cd2proj='cd /cygdrive/c/_Projects'
-alias cd2temp='cd /cygdrive/c/_Temp'
-alias cd2c='cd /cygdrive/c'
+# Some Cgywin shortcuts. Can apply to (u)nix but have to adjust the folder path.
+# alias cd2app='cd /cygdrive/c/_App'
+# alias cd2proj='cd /cygdrive/c/_Projects'
+# alias cd2temp='cd /cygdrive/c/_Temp'
+# alias cd2c='cd /cygdrive/c'
